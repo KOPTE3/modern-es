@@ -1,0 +1,11 @@
+{
+  "name": "modern-es",
+  "version": "1.0.0",
+  "description": "Lecture \"Modern ES\"",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KOPTE3/modern-es.git"
+  },
+  "author": "Anatoliy Ostapenko <ostapencko.anatoliy@yandex.ru>",
+  "homepage": "https://github.com/KOPTE3/modern-es#readme"
+}
