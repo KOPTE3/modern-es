@@ -70,3 +70,9 @@
 		- Object Rest/Spread Properties
 		- Class and Property Decorators
 * The End
+
+
+
+## Ссылочки
+http://www.ecma-international.org/ecma-262/7.0/
+http://www.2ality.com/2016/01/ecmascript-2016.html
