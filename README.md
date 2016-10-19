@@ -48,7 +48,7 @@
 * перерыв
 
 ## Часть 2
-* Поддержка браузерами ~20m
+* Поддержка браузерами ~20m (+)
 	- http://kangax.github.io/compat-table/es6/
 	- http://caniuse.com/
 	- полифиллы
