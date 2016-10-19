@@ -22,7 +22,7 @@
 	- `Object.assign` и `Object.is` (коротко)
 * Set, Map, WeakSet, WeakMap ~5m (+)
 * Классы (коротко) ~5m (+)
-* Тип данных Symbol ~5m
+* Тип данных Symbol ~5m (+)
 	- ??! (особенности)
 	- использование, отсутствие конфликтов
 * Promise ~5-10m
