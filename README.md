@@ -60,7 +60,7 @@
 	- ES7 - не будущее ;]
 		- Оператор `**`
 		- `Array.prototype.includes`
-* Будущее! ~30m
+* Будущее! ~30m (+)
 	- https://github.com/tc39/proposals
 	- stage 4 (https://github.com/tc39/proposals/blob/master/finished-proposals.md):
 		- `Object.values` / `Object.entries` ~5m
