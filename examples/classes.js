@@ -1,14 +1,10 @@
-'use strict';
-
 class User {
 	constructor(name) {
 		this.name = name;
 	}
-
 	hello() {
 		console.log(`Hello, ${this.name}`);
 	}
-
 }
 
 class Admin extends User {
